@@ -9,8 +9,8 @@ Denver county voted: 82.8%  306,055)
 Arapahoe county voted: 6.7%  24,801)
 --------------------------
 Winner County : Denver
-Winning County vote counts: 306,055
-Winning Percentage County Vote:  82.8%
+Winner County Vote Count: 306,055
+Winner County Vote Percentage:  82.8%
 -------------------------
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
